@@ -10,4 +10,4 @@ VIDEOS = {
     "income": "https://vimeo.com/...income",
     "product": "https://amareglobal.com/...product"
 }
-TELEGRAM_TOKEN = "BURAYA_TOKEN"
+TELEGRAM_TOKEN = "8747215307:AAHe7dRa_pNLU_BO6pRjnMP7NpiSsRy8VzQ"
